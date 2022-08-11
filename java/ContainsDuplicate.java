@@ -1,3 +1,5 @@
+
+//https://leetcode.com/problems/contains-duplicate-iii/
 class ContainsDuplicate {
     
     private long getbucketId(long val, long width){
@@ -56,5 +58,4 @@ class ContainsDuplicate {
         return false;
     }
 
-    
 }
