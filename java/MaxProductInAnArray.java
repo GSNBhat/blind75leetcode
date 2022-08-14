@@ -1,6 +1,3 @@
-package DataStructure.Arrays.Numbers;
-
-
 import java.util.Random;
 
 
