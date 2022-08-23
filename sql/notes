@@ -1,0 +1,36 @@
+DataFlow 
+
+	-> Data 
+	-> Data format
+	-> Mechnanisms of data flow (APIS, messages, Events)
+	-> factor 
+		 1. types
+		 2. volume 
+		 3. consumtion/retrival
+		 4. Security 
+
+
+    1. Business layer
+	2. Apllication Layer 
+	3. Data store  (Databases, Queue, Cache, indexes)
+	4. Network Layer
+	5. Hardware 
+
+
+	-> Data Generation 
+		1. User,
+		2. Intenal (logs -> kibna,splunk, Monitoring metrics -> promethues, graphite)
+		3. Inights (user activity system: Amplitude)
+
+
+CAP 
+
+Consitency 
+Avialabity 
+Partioning 
+
+
+
+CAP Theorem 
+ Consitency (Transaction-> AMT, BookMyShow, Order system)
+ Evential Consitency ( A ~= B ) (Logs, Monitoring metrics)
