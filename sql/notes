@@ -25,12 +25,12 @@ DataFlow
 
 CAP 
 
-Consitency 
-Avialabity 
-Partioning 
+    Consitency 
+    Avialabity 
+    Partioning 
 
 
 
 CAP Theorem 
- Consitency (Transaction-> AMT, BookMyShow, Order system)
- Evential Consitency ( A ~= B ) (Logs, Monitoring metrics)
+    Consitency (Transaction-> AMT, BookMyShow, Order system)
+    Evential Consitency ( A ~= B ) (Logs, Monitoring metrics)
