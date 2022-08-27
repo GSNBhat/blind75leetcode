@@ -13,7 +13,6 @@ public class Sudoku {
 		return true;
 	}
 
-
     public static boolean isValidNumberForCol(int[][] board, int col, int number){
 
 		for (int i =0; i < GRID_SIZE ; i++) {
@@ -23,7 +22,6 @@ public class Sudoku {
 		}
 		return true;
 	}
-
 
 	public static boolean isValidNumberForLocalBox(int[][] board, int col, int row, int number){
 
